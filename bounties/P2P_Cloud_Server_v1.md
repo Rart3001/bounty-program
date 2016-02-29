@@ -36,8 +36,7 @@ Client ( Cloud Client) This plugin is responsible for the interaction with the s
 | 2 | Alerts and Notifications | Implement an alerts and notifications mechanism when the server is down, fails or has little space in the disk.
 |  |
 |3| Installation Guide | Create a detailed installation and configuration guide of the server in any computer | |
-|4| Stress tests |	
-Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results |  |
+|4| Stress tests |Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results |  |
 ---
 
 ## Timeline
