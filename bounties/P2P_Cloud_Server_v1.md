@@ -61,8 +61,12 @@ In order to consider it successful this reward (bounty) must pass the following:
 
 | N° | Objective  | Developer | Completed |
 |:--:|:---------:|:-------------:| :-------------:|
-| 1  | Monitoring | Roberto Requena ||
-| 2  | Alerts and Notifications | Roberto Requena | |
-| 3  | Installation guide | Roberto Requena | |
-| 4  | Stress test | Hendry Rodriguez | |
+| 1  | Monitoring | Roberto Requena | 100% |
+| 2  | Alerts and Notifications | Roberto Requena | 100% |
+| 3  | Installation guide | Roberto Requena | 100% |
+| 4  | Stress test | Hendry Rodriguez | 100% |
+| 5  | Monitoring Web App | Roberto Requena | 100% |
 
+## Demo Day
+
+https://www.youtube.com/watch?v=94rhQMNO9mY
