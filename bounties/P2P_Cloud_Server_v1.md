@@ -32,11 +32,12 @@ Client ( Cloud Client) This plugin is responsible for the interaction with the s
 ---
 | N° | Objective | Description | Percentage |
 |:--:|:--------:|:-----------:|:-------------:|
-| 1 |Monitoring	| Implement a monitoring tool where you could see the server status where you could also see basic information like: used up memory, CPU load, execution time, among others. |  |
+| 1 |Monitoring	| Implement a monitoring tool where you could see the server status where you could also see basic information like: used up memory, CPU load, execution time, among others. | 15% |
 | 2 | Alerts and Notifications | Implement an alerts and notifications mechanism when the server is down, fails or has little space in the disk.
-|  |
-|3| Installation Guide | Create a detailed installation and configuration guide of the server in any computer | |
-|4| Stress tests |Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results |  |
+| 15% |
+|3| Installation Guide | Create a detailed installation and configuration guide of the server in any computer | 10% |
+|4| Stress tests |Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results | 40% |
+|5| Monitoring Web App | Implement a internal web aplication for monitoring the server | 20% |
 ---
 
 ## Timeline
