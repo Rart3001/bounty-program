@@ -35,8 +35,9 @@ Client ( Cloud Client) This plugin is responsible for the interaction with the s
 | 1 |Monitoring	| Implement a monitoring tool where you could see the server status where you could also see basic information like: used up memory, CPU load, execution time, among others. | 15% |
 | 2 | Alerts and Notifications | Implement an alerts and notifications mechanism when the server is down, fails or has little space in the disk.| 15% |
 |3| Installation Guide | Create a detailed installation and configuration guide of the server in any computer | 10% |
-|4| Stress tests |Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results | 40% |
-|5| Monitoring Web App | Implement a internal web aplication for monitoring the server | 20% |
+|4| Monitoring Web App | Implement a internal web aplication for monitoring the server | 20% |
+|5| Stress tests |Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results | 40% |
+
 ---
 
 ## Timeline
@@ -51,21 +52,22 @@ In order to consider it successful this reward (bounty) must pass the following:
 
 * The test will be conducted based on the amount contributed by each of the developers. a mathematical calculation will be done to determine what has been the contribution of each person to complete the bounty, based of the number of elements performed successfully.
 
+## Variables
 
-
-*[Test results to be completed after the evaluation]*
+Engagement Level
+Key to reach goal
+Goal difficulty
 
 ## Distribution
-
-*[Distribution to be completed after evaluation]*
 
 | N° | Objective  | Developer | Completed |
 |:--:|:---------:|:-------------:| :-------------:|
 | 1  | Monitoring | Roberto Requena | 100% |
 | 2  | Alerts and Notifications | Roberto Requena | 100% |
 | 3  | Installation guide | Roberto Requena | 100% |
-| 4  | Stress test | Hendry Rodriguez | 100% |
-| 5  | Monitoring Web App | Roberto Requena | 100% |
+| 4  | Monitoring Web App | Roberto Requena | 100% |
+| 5  | Stress test | Hendry Rodriguez | 100% |
+
 
 ## Demo Day
 
