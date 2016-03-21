@@ -66,7 +66,7 @@ In order to consider it successful this reward (bounty) must pass the following:
 | 2  | Alerts and Notifications | Roberto Requena | Notifications via email and slack component | 100% |
 | 3  | Installation guide | Roberto Requena | Documentation | 100% |
 | 4  | Monitoring Web App | Roberto Requena | Angulajs application development and  rest web services| 100% |
-| 5  | Stress test | Hendry Rodriguez | JMeter Stress Test and Docimentation | 100% |
+| 5  | Stress test | Hendry Rodriguez | JMeter Stress Test and Documentation | 100% |
 
 ## Distribution
 
