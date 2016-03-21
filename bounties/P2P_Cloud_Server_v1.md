@@ -35,8 +35,10 @@ Client ( Cloud Client) This plugin is responsible for the interaction with the s
 | 1 |Monitoring	| Implement a monitoring tool where you could see the server status where you could also see basic information like: used up memory, CPU load, execution time, among others. | 15% |
 | 2 | Alerts and Notifications | Implement an alerts and notifications mechanism when the server is down, fails or has little space in the disk.| 15% |
 |3| Installation Guide | Create a detailed installation and configuration guide of the server in any computer | 10% |
-|4| Monitoring Web App | Implement a internal web aplication for monitoring the server | 20% |
+|* 4| Monitoring Web App | Implement a internal web aplication for monitoring the server | 20% |
 |5| Stress tests |Implement stress tests to verify the behavior and performance of the server according to traffic and overload requests, and make a final report with its results | 40% |
+
+* Note: This item was designed to improve the quality of monitoring and was not included in the bounty.
 
 ---
 
@@ -54,20 +56,25 @@ In order to consider it successful this reward (bounty) must pass the following:
 
 ## Variables
 
-Engagement Level
-Key to reach goal
-Goal difficulty
+* Engagement Level
+* Key to reach goal
+* Goal difficulty
+
+| N° | Objective  | Developer | Description | Completed |
+|:--:|:---------:|:-------------:| :-------------:| :-------------:|
+| 1  | Monitoring | Roberto Requena | Install and Configure Monit on the AWS | 100% |
+| 2  | Alerts and Notifications | Roberto Requena | Notifications via email and slack component | 100% |
+| 3  | Installation guide | Roberto Requena | Documentation | 100% |
+| 4  | Monitoring Web App | Roberto Requena | Angulajs application development and  rest web services| 100% |
+| 5  | Stress test | Hendry Rodriguez | JMeter Stress Test and Docimentation | 100% |
 
 ## Distribution
 
-| N° | Objective  | Developer | Completed |
-|:--:|:---------:|:-------------:| :-------------:|
-| 1  | Monitoring | Roberto Requena | 100% |
-| 2  | Alerts and Notifications | Roberto Requena | 100% |
-| 3  | Installation guide | Roberto Requena | 100% |
-| 4  | Monitoring Web App | Roberto Requena | 100% |
-| 5  | Stress test | Hendry Rodriguez | 100% |
+The total amount earn by this bounty is U$ 2,500 and it will be distributed as the following tables shows:
 
+|Participant| Bounty Percentage |   U$S   |
+|Hendry Rodriguez| 40 %         | U$ 1,000|
+|Roberto Requena | 60 %         | U$ 1,500|
 
 ## Demo Day
 
