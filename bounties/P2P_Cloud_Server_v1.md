@@ -72,9 +72,10 @@ In order to consider it successful this reward (bounty) must pass the following:
 
 The total amount earn by this bounty is U$ 2,500 and it will be distributed as the following tables shows:
 
-| Participant | Bounty Percentage |   U$S   |
-| Hendry Rodriguez | 40 %         | U$ 1,000|
-| Roberto Requena  | 60 %         | U$ 1,500|
+| Github Username | Bounty Percentage |   U$S   |
+|:---------------:|:-----------------:|:-------:|
+| Hendry19901990  | 40 %              | U$ 1,000|
+| Rart3001        | 60 %              | U$ 1,500|
 
 ## Demo Day
 
