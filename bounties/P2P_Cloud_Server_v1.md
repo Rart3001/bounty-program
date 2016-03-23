@@ -84,3 +84,4 @@ https://www.youtube.com/watch?v=94rhQMNO9mY
 ## Other links
 
 * http://cloud.fermat.org
+* http://fermat.org/cloud-server/fermat-cloud-server.tar.gz
